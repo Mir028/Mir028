@@ -28,6 +28,14 @@ I have hands-on experience working with real systems, and I’m especially excit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" />
 </p>
 
+## 📫 Connect With Me  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/miro-tasevski-528478246/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 <!--
 **Mir028/Mir028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
